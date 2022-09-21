@@ -41,7 +41,9 @@
 ### Написать программы Hello World на Python и Unity.
 Ход работы:
 
+C:\Users\sazhi\OneDrive\Документы\Институты\УрФУ\Учеба(УрФУ)\2 курс\АД в GameDev\DA-in-GameDev-lab1\screenshots.png\1.png
 
+C:\Users\sazhi\OneDrive\Документы\Институты\УрФУ\Учеба(УрФУ)\2 курс\АД в GameDev\DA-in-GameDev-lab1\screenshots.png\3.png
 
 ## Задание 2
 ### Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
