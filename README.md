@@ -42,11 +42,17 @@
 Ход работы:
 
 На 1 скрине продемонстрировано запуск программы, выводящей сообщение Hello World в Google Collab
+
 ![1](https://user-images.githubusercontent.com/102538132/191787932-0ee4ceb7-0c11-42d2-a916-a724cde184c1.png)
 
+
 На 2 скрине продемонстрировано запуск программы, выводящей сообщение Hello World на Unity
+
 ![3](https://user-images.githubusercontent.com/102538132/191787953-497c1312-c984-476c-ab16-359ce072cb26.png)
+
+
 Также скрипт благодаря которому на консоле выводится Hello World 
+
 ![unity(vs code)](https://user-images.githubusercontent.com/102538132/191792859-6a70a3a3-3c62-4b25-bc3a-35360ebfa0eb.png)
 
 ## Задание 2
