@@ -44,6 +44,7 @@
 На 1 скрине продемонстрировано запуск программы, выводящей сообщение Hello World в Google Collab
 
 ![1](https://user-images.githubusercontent.com/102538132/191787932-0ee4ceb7-0c11-42d2-a916-a724cde184c1.png)
+![2](https://user-images.githubusercontent.com/102538132/191812809-99527b4a-2f42-489a-83ba-ed7e6672d396.png)
 
 
 На 2 скрине продемонстрировано запуск программы, выводящей сообщение Hello World на Unity
